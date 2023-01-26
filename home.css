@@ -1,0 +1,11 @@
+.carousel_home{
+    height: auto;
+    width: 80vw;
+    align-content: center !important;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+/* .carousel-indicators {
+    bottom: -50px !important;
+} */

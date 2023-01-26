@@ -1,0 +1,15 @@
+{
+  "name": "bhavishya-dwar",
+  "version": "1.0.0",
+  "description": "Jobs and Internships recommendation system",
+  "main": "index.html",
+  "scripts": {
+    "test": "console.log(\"Hello Bhavishya Dwar!\");",
+    "start": "lite-server"
+  },
+  "author": "Nagendra Kamesh M S",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

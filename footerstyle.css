@@ -1,0 +1,15 @@
+#footer{
+    background-color: black;
+    padding: 20px;
+    margin: 0px;
+    font-weight:500;
+}
+
+#footer table,tr,td,a{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    height: 50px;
+    font-size: large;
+
+}

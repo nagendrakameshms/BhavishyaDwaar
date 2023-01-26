@@ -1,0 +1,47 @@
+body{
+    background-color: #F7F9F9;
+}
+#page_content{
+    margin: 2.1px;
+}
+.jobPost{
+    background-color:#FFFFFF;
+    border-radius: 25px;
+    /* min-height: 35vh; */
+    /* min-width: 50vw; */
+    width: auto;
+    height: auto;
+    box-shadow: 1px 2px 2px 3px #888888;
+    margin-right: 25px;
+}
+.jobDetails{
+    margin: 2vw;
+    padding-top: 1.5vw;
+}
+.icon{
+    display: flex;
+}
+.line{
+    border: none;
+    height: 20px;
+    width: auto;
+    height: 50px;
+    margin-top: 0;
+    border-bottom: 2px solid #1f1209;
+    box-shadow: 0 20px 20px -20px #333;
+    margin: -50px auto 10px; 
+    padding: 5px;
+    }
+.br{
+    height: 0.25vw;
+}
+.viewDetails{
+    margin-left: 30vw;
+    padding: 2px;
+}
+.offcanvas{
+    width: 100% !important; 
+}
+#filterbox{
+    /* background-color: blue; */
+}
